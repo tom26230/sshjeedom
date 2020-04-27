@@ -106,8 +106,8 @@ Il me suffit de créer un script bash sur Jeedom contenant l'entête bash ainsi 
 ``` bash
 #!/bin/bash
 
-ssh root@192.168.1.12 /home/pi/scripts/led.py
+sudo ssh root@192.168.1.12 /home/pi/scripts/led.py
 ```
 
-
+*Attention, le ***sudo*** est très important, cela permettra d'utiliser le partage de clés SSH fait par l'utilisateur root*
 
