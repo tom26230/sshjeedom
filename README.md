@@ -119,17 +119,17 @@ Première étape : je créer mon équipement
 
 Je l'active et renseigne certain paramètres
 
-![création de l'équipement](img/Equipemnt.png)
+![équipement](img/Equipement.png)
 
 On passe maintenant à la partie script, je le crée en précisant bien son extension
 *ceci est très important, Jeedom se base sur l'extension afin de déterminer l'intrpréteur à utiliser*
 
-![création de l'équipement](img/Création_du_script.png)
+![Création du script](img/Création_du_script.png)
 
 J'insère les lignes précedemment évoqué
 
-![création de l'équipement](img/script.png)
+![Script](img/script.png)
 
 Une fois les sauvegardes faites, je peux tester mon script, et je vois le widget apparaitre
 
-![création de l'équipement](img/widget.png)
+![Widget](img/widget.png)
