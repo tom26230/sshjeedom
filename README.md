@@ -115,4 +115,4 @@ sudo ssh root@192.168.1.12 /home/pi/scripts/led.py
 
 Première étape : je créer mon équipement
 
-![création de l'équipement](/img/création equipement.png)
+![création de l'équipement](img/création equipement.png)
