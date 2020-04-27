@@ -132,4 +132,4 @@ J'insère les lignes précedemment évoqué
 
 Une fois les sauvegardes faites, je peux tester mon script, et je vois le widget apparaitre
 
-![Widget](img/widget.png)
+![Widget](img/widget_script.png)
