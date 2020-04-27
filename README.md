@@ -115,4 +115,21 @@ sudo ssh root@192.168.1.12 /home/pi/scripts/led.py
 
 Première étape : je créer mon équipement
 
+![création de l'équipement](img/création_equipemnt.png)
+
+Je l'active et renseigne certain paramètres
+
+![création de l'équipement](img/Equipemnt.png)
+
+On passe maintenant à la partie script, je le crée en précisant bien son extension
+*ceci est très important, Jeedom se base sur l'extension afin de déterminer l'intrpréteur à utiliser*
+
+![création de l'équipement](img/Création_du_script.png)
+
+J'insère les lignes précedemment évoqué
+
 ![création de l'équipement](img/script.png)
+
+Une fois les sauvegardes faites, je peux tester mon script, et je vois le widget apparaitre
+
+![création de l'équipement](img/widget.png)
